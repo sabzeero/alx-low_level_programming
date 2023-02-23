@@ -8,7 +8,7 @@ int main(void)
 {
 	int i;
 
-	print("Infinite looop incoming :(\n");
+	printf("Infinite looop incoming :(\n");
 	i = 0;
 
 	/**
